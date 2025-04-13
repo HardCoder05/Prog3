@@ -1,0 +1,3 @@
+interface InfoProvider{
+	string devolverDatos();
+}
