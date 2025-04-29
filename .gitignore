@@ -2,6 +2,8 @@
 *.exe
 *.txt
 *.class
+/dist
+*.jar
 /Lab4_24-1/Preg4/MedicalSoft/nbproject/private/
 /Lab4_24-1/Preg4/MedicalSoftController/nbproject/private/
 /Lab4_24-1/Preg4/MedicalSoftDBManager/nbproject/private/
@@ -12,3 +14,11 @@
 /Lab5_24-2/Preg4/EventMasterSoft/build/
 /Lab5_24-2/Preg4/EventMasterSoftLogisticaDA/build/
 /Lab5_24-2/Preg4/EventMasterSoftDBManager/build/
+/Lab5_24-2/SRC/EventMasterSoft/build/
+/Lab5_24-2/SRC/EventMasterSoft/nbproject/private/
+/Lab5_24-2/SRC/EventMasterSoftDBManager/build/
+/Lab5_24-2/SRC/EventMasterSoftDBManager/dist/
+/Lab5_24-2/SRC/EventMasterSoftDBManager/nbproject/private/
+/Lab5_24-2/SRC/EventMasterSoftLogisticaDA/build/
+/Lab5_24-2/SRC/EventMasterSoftLogisticaDA/dist/
+/Lab5_24-2/SRC/EventMasterSoftLogisticaDA/nbproject/private/
