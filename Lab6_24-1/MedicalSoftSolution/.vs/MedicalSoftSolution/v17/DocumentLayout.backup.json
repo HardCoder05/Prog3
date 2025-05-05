@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab6_24-1\\MedicalSoftSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A904D076-144E-469F-82A7-AF09835CC3D6}|MedicalSoft\\MedicalSoft.csproj|c:\\users\\rio88\\onedrive\\escritorio\\prog3\\lab6_24-1\\medicalsoftsolution\\medicalsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A904D076-144E-469F-82A7-AF09835CC3D6}|MedicalSoft\\MedicalSoft.csproj|solutionrelative:medicalsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996862C6-CD58-4AC9-A214-25D308B4ACF6}|MedicalSoftController\\MedicalSoftController.csproj|C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab6_24-1\\MedicalSoftSolution\\medicalsoftcontroller\\infra\\impl\\salaespecializadaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996862C6-CD58-4AC9-A214-25D308B4ACF6}|MedicalSoftController\\MedicalSoftController.csproj|solutionrelative:medicalsoftcontroller\\infra\\impl\\salaespecializadaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaEspecializadaImpl.cs",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab6_24-1\\MedicalSoftSolution\\MedicalSoftController\\Infra\\Impl\\SalaEspecializadaImpl.cs",
+              "RelativeDocumentMoniker": "MedicalSoftController\\Infra\\Impl\\SalaEspecializadaImpl.cs",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab6_24-1\\MedicalSoftSolution\\MedicalSoftController\\Infra\\Impl\\SalaEspecializadaImpl.cs",
+              "RelativeToolTip": "MedicalSoftController\\Infra\\Impl\\SalaEspecializadaImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:28:03.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab6_24-1\\MedicalSoftSolution\\MedicalSoft\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalSoft\\Program.cs",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab6_24-1\\MedicalSoftSolution\\MedicalSoft\\Program.cs",
+              "RelativeToolTip": "MedicalSoft\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:18:23.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
