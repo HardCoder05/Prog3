@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BF5C8A-A973-45C3-A54A-33CF01A4EBF9}|EventMasterSoftDA\\EventMasterSoftDA.csproj|C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\eventmastersoftda\\impl\\productoramysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BF5C8A-A973-45C3-A54A-33CF01A4EBF9}|EventMasterSoftDA\\EventMasterSoftDA.csproj|solutionrelative:eventmastersoftda\\impl\\productoramysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BF5C8A-A973-45C3-A54A-33CF01A4EBF9}|EventMasterSoftDA\\EventMasterSoftDA.csproj|C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\eventmastersoftda\\impl\\eventomysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BF5C8A-A973-45C3-A54A-33CF01A4EBF9}|EventMasterSoftDA\\EventMasterSoftDA.csproj|solutionrelative:eventmastersoftda\\impl\\eventomysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|c:\\users\\rio88\\onedrive\\escritorio\\prog3\\ex1_24-1\\eventmastersoft\\eventmastersoft\\registrarevento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|solutionrelative:eventmastersoft\\registrarevento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\eventmastersoft\\registrarevento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|solutionrelative:eventmastersoft\\registrarevento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\eventmastersoft\\listareventos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|solutionrelative:eventmastersoft\\listareventos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\eventmastersoft\\listareventos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoft\\EventMasterSoft.csproj|solutionrelative:eventmastersoft\\listareventos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListarEventos.aspx",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\ListarEventos.aspx",
+              "RelativeDocumentMoniker": "EventMasterSoft\\ListarEventos.aspx",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\ListarEventos.aspx",
+              "RelativeToolTip": "EventMasterSoft\\ListarEventos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T20:36:41.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarEventos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\ListarEventos.aspx.cs",
+              "RelativeDocumentMoniker": "EventMasterSoft\\ListarEventos.aspx.cs",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\ListarEventos.aspx.cs",
+              "RelativeToolTip": "EventMasterSoft\\ListarEventos.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:36:27.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarEvento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\RegistrarEvento.aspx.cs",
+              "RelativeDocumentMoniker": "EventMasterSoft\\RegistrarEvento.aspx.cs",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\RegistrarEvento.aspx.cs",
+              "RelativeToolTip": "EventMasterSoft\\RegistrarEvento.aspx.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAswLEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:21:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrarEvento.aspx",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\RegistrarEvento.aspx",
+              "RelativeDocumentMoniker": "EventMasterSoft\\RegistrarEvento.aspx",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoft\\RegistrarEvento.aspx",
+              "RelativeToolTip": "EventMasterSoft\\RegistrarEvento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-16T00:22:58.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventoMySQL.cs",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoftDA\\Impl\\EventoMySQL.cs",
+              "RelativeDocumentMoniker": "EventMasterSoftDA\\Impl\\EventoMySQL.cs",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoftDA\\Impl\\EventoMySQL.cs",
+              "RelativeToolTip": "EventMasterSoftDA\\Impl\\EventoMySQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:12:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoraMySQL.cs",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoftDA\\Impl\\ProductoraMySQL.cs",
+              "RelativeDocumentMoniker": "EventMasterSoftDA\\Impl\\ProductoraMySQL.cs",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\EX1_24-1\\EventMasterSoft\\EventMasterSoftDA\\Impl\\ProductoraMySQL.cs",
+              "RelativeToolTip": "EventMasterSoftDA\\Impl\\ProductoraMySQL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:12:27.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
