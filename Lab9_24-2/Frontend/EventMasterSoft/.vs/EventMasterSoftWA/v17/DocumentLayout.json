@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab9_24-2\\Frontend\\EventMasterSoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoftWA\\EventMasterSoftWA.csproj|c:\\users\\rio88\\onedrive\\escritorio\\prog3\\lab9_24-2\\frontend\\eventmastersoft\\eventmastersoftwa\\registrarevento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoftWA\\EventMasterSoftWA.csproj|solutionrelative:eventmastersoftwa\\registrarevento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoftWA\\EventMasterSoftWA.csproj|c:\\users\\rio88\\onedrive\\escritorio\\prog3\\lab9_24-2\\frontend\\eventmastersoft\\eventmastersoftwa\\registrarevento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA81A759-8E85-4330-8D37-B20135AB5062}|EventMasterSoftWA\\EventMasterSoftWA.csproj|solutionrelative:eventmastersoftwa\\registrarevento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarEvento.aspx",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab9_24-2\\Frontend\\EventMasterSoft\\EventMasterSoftWA\\RegistrarEvento.aspx",
+              "RelativeDocumentMoniker": "EventMasterSoftWA\\RegistrarEvento.aspx",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab9_24-2\\Frontend\\EventMasterSoft\\EventMasterSoftWA\\RegistrarEvento.aspx",
+              "RelativeToolTip": "EventMasterSoftWA\\RegistrarEvento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:31:11.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarEvento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab9_24-2\\Frontend\\EventMasterSoft\\EventMasterSoftWA\\RegistrarEvento.aspx.cs",
+              "RelativeDocumentMoniker": "EventMasterSoftWA\\RegistrarEvento.aspx.cs",
+              "ToolTip": "C:\\Users\\rio88\\OneDrive\\Escritorio\\Prog3\\Lab9_24-2\\Frontend\\EventMasterSoft\\EventMasterSoftWA\\RegistrarEvento.aspx.cs",
+              "RelativeToolTip": "EventMasterSoftWA\\RegistrarEvento.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:28:04.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
